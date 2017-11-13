@@ -2,8 +2,8 @@
 def display_board;
   seprator = "----------"
   puts "   |   |   ";
-  puts seperator;
+  puts "-----------";
   puts "   |   |   ";
-  puts seperator;
+  puts "-----------";
   puts "   |   |   ";
 end;
